@@ -11,7 +11,7 @@
 <style scoped>
 
 .banner {
-    background-image: url('../assets/imgs/bannerWelcome.jpeg');
+    background-image: url('/imgs/bannerWelcome.jpeg');
     background-size: cover;
     height: 250px;
     padding: 40px;

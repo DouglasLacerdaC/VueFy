@@ -15,7 +15,7 @@ export default {
   
   <section class="login">
     
-    <img src="/src/assets/imgs/logo.svg" alt="">
+    <img src="/imgs/logo.svg" alt="">
     
     <div class="description">
       <h1>Bem vindo ao <span>VueFY</span></h1>

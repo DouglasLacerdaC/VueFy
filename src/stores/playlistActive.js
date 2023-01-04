@@ -11,7 +11,7 @@ export const usePlaylistActive = defineStore('usePlaylistActive', {
                 name: 'Artista desconhecido',
                 band: 'None',
                 music: {
-                    banner: '/src/assets/imgs/banners/gatinhodorock.jpg',
+                    banner: '/imgs/banners/gatinhodorock.jpg',
                     url: '',
                 }
             },
