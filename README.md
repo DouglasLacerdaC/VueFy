@@ -2,7 +2,7 @@
 
 Projeto de músicas em vue para fixar conceitos iniciais.
 
-![Screenshot](./public/imgs/preview.png)
+![Screenshot](./public/imgs/preview.gif)
 
 ## 🚀 Tecnologias
 
