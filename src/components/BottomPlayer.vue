@@ -102,7 +102,7 @@ export default {
                 </div>
                 
                 <div class="duration">
-                    <input type="range">
+                    <input type="range" value="100">
                 </div>
             
             </div>
