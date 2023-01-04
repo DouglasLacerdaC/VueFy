@@ -100,10 +100,6 @@ export default {
                         <i class="fa-solid fa-music"></i>
                     </button>
                 </div>
-                
-                <div class="duration">
-                    <input type="range" value="100">
-                </div>
             
             </div>
 
