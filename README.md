@@ -1,7 +1,7 @@
 # VueFY
 Projeto de músicas em vue para fixar conceitos iniciais.
 
-![Screenshot](./src/assets/imgs/preview.png)
+![Screenshot](./public/imgs/preview.png)
 
 ## 🚀 Tecnologias
 - ✔️ VueJS 3 - Framework web
