@@ -9,6 +9,7 @@ export default {
         return {
             elementPlayActive: false,
             elementNoSound: false,
+            currentVolume: 0,
             volume: 0
         }
     },
@@ -24,8 +25,10 @@ export default {
         },
         noSound() {
 
-            this.volume = 0
+            if(this.volume != 0) this.currentVolume = this.volume
+
             this.elementNoSound = !this.elementNoSound
+            this.elementNoSound ? this.volume = 0 : this.volume = this.currentVolume
 
         },
         ...mapActions(usePlaylistActive, ['nextMusic', 'comeBackMusic'])
